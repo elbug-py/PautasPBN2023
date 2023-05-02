@@ -1,0 +1,30 @@
+CS Petrocub,93.92,90.5
+AL Ahed,72.91,54.41
+Bala Town FC,37.71,90.68
+RKC Waalwijk,54.69,22.70
+FK Desna Chernihiv,85.90,20.36
+Sampdoria,45.94,47.71
+FC Zürich,92.44,65.8
+Queens Park Rangers,31.22,9.78
+Sutjeska,22.37,21.26
+Nîmes Olympique,53.88,39.20
+CS Constantine,40.36,75.75
+FC St. Gallen 1879,36.0,42.22
+Nueva Chicago,90.82,83.42
+FC Milsami Orhei,97.51,60.80
+Bohemians 1905,47.87,62.57
+Málaga,1.24,60.39
+Jablonec,93.89,69.46
+FC CSKA 1948 Sofia,99.16,75.88
+AEL Limassol,74.16,10.71
+Unión Santa Fe,66.67,6.71
+US Monastir,11.23,90.3
+Pogoń Szczecin,22.9,1.46
+Daegu FC,70.38,29.12
+New York City FC,77.83,31.11
+MOL Fehérvár FC,74.28,79.21
+Middlesbrough,30.64,62.54
+Muangthong United,40.94,100.11
+Sarmiento,50.92,47.6
+Vitória,27.7,94.80
+SC Heerenveen,46.58,94.27

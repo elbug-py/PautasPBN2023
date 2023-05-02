@@ -1,0 +1,500 @@
+CS Petrocub,93.92,90.5
+AL Ahed,72.91,54.41
+Bala Town FC,37.71,90.68
+RKC Waalwijk,54.69,22.70
+FK Desna Chernihiv,85.90,20.36
+Sampdoria,45.94,47.71
+FC Zürich,92.44,65.8
+Queens Park Rangers,31.22,9.78
+Sutjeska,22.37,21.26
+Nîmes Olympique,53.88,39.20
+CS Constantine,40.36,75.75
+FC St. Gallen 1879,36.0,42.22
+Nueva Chicago,90.82,83.42
+FC Milsami Orhei,97.51,60.80
+Bohemians 1905,47.87,62.57
+Málaga,1.24,60.39
+Jablonec,93.89,69.46
+FC CSKA 1948 Sofia,99.16,75.88
+AEL Limassol,74.16,10.71
+Unión Santa Fe,66.67,6.71
+US Monastir,11.23,90.3
+Pogoń Szczecin,22.9,1.46
+Daegu FC,70.38,29.12
+New York City FC,77.83,31.11
+MOL Fehérvár FC,74.28,79.21
+Middlesbrough,30.64,62.54
+Muangthong United,40.94,100.11
+Sarmiento,50.92,47.6
+Vitória,27.7,94.80
+SC Heerenveen,46.58,94.27
+Iskra-Stal,6.6,29.5
+Delfin SC,71.46,94.96
+Farul Constanța,35.49,39.50
+FUS Rabat,24.55,46.90
+San Martín de Tucumán,0.71,21.30
+Foolad Khuzestan,30.85,57.38
+Mladá Boleslav,22.63,44.84
+Domžale,61.9,92.54
+FK Rostov,67.11,27.47
+CSD Municipal,44.18,44.28
+Nancy,16.78,96.65
+Toulouse,32.14,13.40
+Evian TG,34.23,57.26
+GFC Ajaccio,33.90,74.51
+Santo André,98.79,89.44
+BG Pathum United,58.25,58.70
+Saint-Eloi Lupopo,41.50,73.92
+Linfield,1.4,46.77
+Unión La Calera,91.57,81.10
+Mura 05,83.57,34.98
+Al-Wehdat SC,73.72,60.65
+Chaves,78.38,90.99
+JS Kabylie,83.77,60.71
+Saint-Étienne,7.32,97.34
+Vitesse,53.52,77.13
+Figueirense,87.17,46.38
+Koper,100.85,65.99
+CS Deportivo Pereira,12.70,37.98
+Sivasspor,8.54,30.33
+Metalurh Donetsk,97.60,85.69
+Bangor City,31.70,24.1
+Wuhan Three Towns F.C.,43.50,71.60
+Everton CD,30.84,88.5
+Sunderland,20.55,34.15
+Reading,33.16,71.53
+Hércules,72.0,22.47
+IFK Norrköping,11.12,74.34
+Club Deportivo Maldonado,83.87,72.40
+Coton Sport,19.80,57.99
+Dempo SC,67.87,38.87
+Alanyaspor,91.55,97.4
+Club Africain,82.56,96.15
+Lugano,66.10,74.56
+Baník Ostrava,73.94,15.30
+Hannover 96,17.78,91.44
+Puskás FC,48.86,95.94
+Venezia FC,87.82,4.84
+Sepsi OSK,83.89,56.35
+Bohemian FC,98.77,93.78
+US Cremonese,21.29,87.35
+Casa Pia,8.29,83.72
+Portsmouth,25.39,59.44
+Palestino,56.17,35.9
+Junior FC,73.22,49.64
+Austria Wien,66.80,32.98
+El Jaish (Doha),56.22,27.80
+Antigua Guatemala,60.71,2.38
+Motema Pembe,19.54,84.0
+Suduva Marijampole,78.8,10.99
+Amiens SC,70.11,26.38
+La Equidad,68.90,69.37
+FC Tokyo,91.15,64.53
+FK Sarajevo,84.29,97.24
+Cobresal,52.72,31.45
+Krylya Sovetov Samara,45.96,84.90
+FC Ural,97.71,20.51
+St Patrick's,63.55,90.36
+Necaxa,74.9,31.13
+Nashville SC,58.62,25.48
+Rapid Bucureşti,78.8,42.80
+Akwa United,24.24,73.14
+FC Dinamo Batumi,59.97,57.16
+Asante Kotoko,49.32,15.8
+Beijing Guoan,78.45,55.70
+Montevideo Wanderers,13.52,34.3
+Tractor Sazi,9.67,7.34
+Audax Italiano La Florida,76.89,1.77
+Plateau United,47.39,19.30
+Standard Liège,7.93,93.26
+Guarani FC,54.88,11.92
+New England Revolution,39.59,47.36
+Sport Huancayo,40.67,35.33
+Auxerre,58.75,80.21
+MP Antalyaspor,16.38,48.66
+Kaizer Chiefs,3.49,7.80
+All Boys,69.66,28.52
+Melbourne City FC,51.21,55.97
+Cercle Brugge,20.68,88.67
+Metz,23.68,36.63
+Deportivo Heredia,93.52,65.52
+Nordsjælland,32.38,42.29
+Deportivo Pasto,29.7,4.3
+Atlético Rafaela,98.78,90.30
+Bordeaux,40.71,3.85
+St. Pauli,11.33,32.58
+NK Celje,96.14,94.66
+Deportivo Cuenca,32.30,10.99
+Vorskla Poltava,1.6,84.18
+Kaiserslautern,56.42,20.48
+FC Platinum,56.26,28.22
+Olympique de Bamako,94.73,98.89
+Highlanders,79.91,16.80
+Cienciano,73.89,27.73
+Kayserispor,0.97,50.29
+Colón Santa Fe,49.58,84.12
+Piast Gliwice,30.20,83.19
+Al Taawon,0.10,36.36
+Brøndby,94.47,47.58
+Torpedo Zhodino,99.85,82.84
+Guastatoya,87.60,10.95
+Moskva,18.58,37.23
+FC Ruh Brest,21.52,31.78
+Crotone,88.43,91.89
+MC Alger,9.47,52.18
+Boavista,87.49,88.96
+Guingamp,77.61,32.61
+Deportivo Táchira,37.25,91.86
+AS Réal Bamako,25.35,82.84
+Vålerenga,65.6,42.11
+Sharjah Cultural Club,5.78,14.6
+Future FC,97.46,23.35
+Técnico Universitario,68.19,60.37
+Avaí FC,86.70,13.86
+Caracas,38.88,21.34
+RSB Berkane,4.3,47.90
+Watford,60.66,95.27
+Kasımpaşa,23.53,14.91
+Santa Cruz,77.92,6.55
+Viitorul Constanţa,44.85,85.16
+Supersport United,85.42,66.88
+Ordabasy Shymkent,81.4,70.19
+Gunners,23.43,62.21
+Jeju United,59.15,37.91
+Riga FC,92.9,56.71
+FC Inter Turku (FIN),0.83,79.22
+ATK Mohun Bagan FC,93.67,33.68
+Envigado,14.86,53.64
+Kalmar FF,6.67,24.44
+Amkar Perm',39.98,80.17
+Cerro Largo,26.65,89.41
+Sint-Truiden,13.12,93.63
+Once Caldas,60.49,79.49
+Curicó Unido,100.33,48.36
+Club Atlético Bucaramanga,90.69,46.24
+Bamboutos,25.26,61.54
+Botev Plovdiv,82.63,71.74
+Servette,11.19,36.89
+Benevento,9.67,66.86
+Mahindra United,80.64,20.26
+Enyimba,13.17,62.84
+Lillestrøm,30.61,72.71
+FC Energetik-BGU Minsk,53.3,66.90
+Atlético San Luis,84.66,73.10
+Luzern,33.57,49.28
+Kuban' Krasnodar,64.1,94.96
+UMS de Loum,8.4,68.26
+Le Mans,76.0,45.83
+Heart of Midlothian,15.79,13.66
+Pumas UNAM,47.8,84.16
+IFK Göteborg,28.7,48.6
+Huachipato,49.55,41.69
+Deportivo Cali,78.8,69.42
+Criciúma,42.86,55.70
+Cartaginés,97.64,84.94
+River Plate PR,13.35,13.74
+NŠ Mura,96.12,61.24
+Joinville EC,8.83,28.33
+Rigas Futbola skola,16.98,35.44
+Žilina,93.21,72.51
+Slavia Sofia,0.78,17.2
+Isloch,62.97,4.43
+Frosinone,34.17,23.17
+Chicken Inn FC,38.94,22.71
+Gazişehir Gaziantep FK,69.2,100.50
+Mes Rafsanjan,75.7,64.81
+Maghreb Fès,61.30,49.77
+Slovan Liberec,51.60,19.99
+Orense SC,97.30,95.31
+Wolfsberger AC,22.20,84.28
+Al-Jazira,2.49,86.78
+FC Seoul,80.58,38.92
+Águila,23.15,99.26
+PFC Lokomotiv Sofia 1929,70.92,13.61
+O'Higgins,50.96,43.67
+Al-Rayyan,92.43,32.50
+Kisvárda Master Good,55.69,92.39
+EC Juventude,32.84,30.72
+Saturn,46.4,5.32
+Columbus Crew,81.23,39.47
+Temperley,28.49,68.3
+Paksi SE,78.1,67.78
+Grenoble,18.76,44.76
+Boston River,15.81,70.26
+Bari,29.7,75.31
+Viking FK,96.86,65.34
+Portland Timbers,45.16,49.56
+Palermo,67.15,94.20
+Željezničar,25.75,33.79
+Canon Sportif,7.48,40.14
+Greuther Fürth,84.72,42.71
+Zhejiang Professional,1.63,16.68
+Astra Ploieşti,44.96,80.61
+Interclube de Angola,37.53,77.29
+FC Kolos Kovalivka,36.30,21.22
+Go Ahead Eagles,69.28,44.19
+Bunyodkor Tashkent,38.6,1.78
+Port F.C.,4.49,44.15
+Moreirense,83.63,92.79
+Real España,9.63,3.43
+Motor Action,27.87,52.79
+ZESCO United,76.66,76.0
+Boulogne,1.79,37.24
+CS Alagoano AL,84.53,95.28
+Caen,54.13,48.42
+Al-Ahli,14.43,31.57
+Aktobe,35.60,37.67
+Sligo Rovers,100.94,53.90
+Mjällby AIF,65.83,59.45
+Independiente FBC (Campo Grande),58.26,57.93
+Nacional Potosí,31.84,45.24
+Lokomotiva,88.41,95.31
+Borac Banja Luka,49.83,53.17
+Incheon United,75.32,35.63
+Grêmio Prudente,79.56,14.39
+Volos New Football Club,69.12,63.42
+Viborg,76.15,89.39
+Enugu Rangers,61.75,27.29
+Smouha SC,14.3,58.81
+Consadole Sapporo,84.60,91.9
+Pune FC,56.29,100.2
+Metalist Kharkiv,91.10,59.91
+Nürnberg,98.73,77.10
+AGF,61.13,32.17
+Marathón,96.91,40.59
+FC Orenburg,30.21,60.0
+Kano Pillars,88.96,7.45
+New York Red Bulls,71.44,95.90
+Heracles,17.21,90.88
+Westerlo,47.3,50.26
+Polonia Warszawa,89.95,58.77
+Nejmeh SC,10.71,79.71
+Real Estelí,46.11,32.14
+Maccabi Netanya,69.49,96.29
+Fortuna Sittard,22.23,57.79
+Las Palmas,76.67,52.62
+FC Ufa,38.18,59.51
+Coban Imperial,80.56,44.61
+MC Oran,60.70,17.94
+Cape Town City FC,83.88,77.22
+Persib Bandung,51.81,39.77
+FC Volendam,28.21,47.89
+Al Masry,29.41,4.3
+SC Farense,61.70,0.42
+Club Tijuana,98.21,22.4
+AL Ansar SC,45.47,94.14
+Valenciennes,63.55,81.33
+Seinaejoen JK,64.57,62.28
+Club Atlético Grau,1.73,5.99
+Sportivo Ameliano,19.23,53.23
+Široki Brijeg,0.64,78.41
+Chernomorets Burgas,49.64,24.16
+Gangwon FC,0.8,5.71
+AS Nika,19.14,60.49
+Racing Santander,60.88,65.40
+Hatayspor Kulübü,44.73,65.46
+Troyes,60.1,61.96
+Parma Calcio 1913,14.4,55.77
+Kavala,18.49,42.70
+Shanghai Shenhua,0.70,55.90
+Union Sportive de Douala,73.91,19.82
+Al Fateh FC,53.34,10.57
+Atlanta United FC,11.99,73.95
+Kecskeméti TE,48.87,97.41
+FC Arda Kardzhali,99.92,84.59
+Suwon Bluewings,89.3,6.89
+Xelajú,32.8,36.64
+Norwich City,57.41,76.49
+CF Montreal,68.72,78.81
+Neman Grodno,39.1,100.84
+Minnesota United,98.60,1.14
+Kabuscorp SCP,62.89,16.0
+Gyeongnam FC,46.27,33.8
+Ilves,65.33,30.89
+Beroe,41.84,57.53
+Gimcheon Sangmu FC,97.94,21.36
+Diriangén FC,99.5,84.38
+Séwé,33.18,58.19
+River Plate Ecuador,1.99,48.3
+Lobos B.U.A.P.,57.36,35.87
+FC Dallas,6.80,60.57
+Sagan Tosu,29.77,5.87
+Gomel,65.78,27.69
+Fovu de Baham,50.45,9.95
+Lobi Stars,88.41,22.72
+Al Mokawloon Al Arab,50.18,0.89
+KV Mechelen,69.97,32.43
+Sportivo Luqueño,38.87,59.40
+Chengdu Rongcheng F.C.,64.84,94.78
+Universidad Concepción,98.87,71.31
+Colombe du Dja et Lobo,88.89,86.12
+Cracovia Kraków,97.50,43.14
+Oriente Petrolero,44.4,52.35
+Odds Ballklubb,74.97,37.78
+St. Louis City,69.38,5.15
+Randers FC,94.43,85.61
+Cumbayá FC,58.63,38.94
+CD Antofagasta,97.14,94.63
+Sagrada Esperança,99.24,24.45
+Deportivo Malacateco,97.72,11.61
+Aberdeen,56.92,85.65
+Chievo Verona,45.12,35.87
+Oud-Heverlee Leuven,90.38,15.10
+Abia Warriors,10.15,96.2
+Cliftonville,55.66,14.76
+FC Brest,17.12,75.43
+Coquimbo Unido,28.51,58.3
+Hibernian,32.85,44.86
+Olympic Club de Safi,16.8,64.6
+Bursaspor,56.13,50.76
+Persipura Jayapura,43.14,54.43
+East Bengal Club,80.11,59.55
+Paraná Clube,98.68,78.57
+Debrecen,90.53,66.93
+Sevilla FC Puerto Rico,8.7,65.4
+Brescia,14.97,47.1
+Defence Force FC,0.72,68.40
+Lokomotiv Tashkent,22.89,23.19
+Club Atletico Progreso,59.54,14.1
+Bali United,81.63,89.43
+Willem II,36.48,14.12
+Unión Española,86.65,56.28
+KS Warta Poznań,14.81,17.13
+Alianza Petrolera,4.15,13.63
+Alianza Atlético,91.73,64.96
+Cork City,31.37,92.65
+Arsenal Tula,49.91,88.28
+Gamba Osaka,86.59,33.23
+Osmanlıspor FK,64.29,57.82
+CS Marítimo Madeira,50.4,7.22
+Al-Faisaly SC Amman,46.3,50.86
+Asteras Tripolis,48.20,46.59
+Botoşani,56.87,5.80
+Salgaocar,54.1,4.17
+Henan Songshan Longmen F.C.,92.96,60.27
+Eding Sport FC,35.1,4.69
+Stade Renard de Melong,91.72,97.27
+Larne FC,20.70,47.25
+Crusaders,60.36,64.34
+Vitória Setúbal,93.54,34.79
+Sydney FC,38.54,55.92
+FC Juárez,19.90,67.74
+Leones Negros U. de G.,51.92,41.37
+Cusco FC,49.69,63.85
+FC Torpedo Moscow,33.15,83.40
+Atromitos,22.50,71.66
+Persija Jakarta,72.50,29.89
+Pandurii Târgu Jiu,35.96,64.53
+Hekari United,90.78,40.93
+Astres FC de Douala,20.57,15.98
+Al Khartoum SC,23.30,68.49
+Deportes Temuco,37.89,53.18
+Portimonense,36.33,46.48
+Club Deportivo Garcilaso,11.44,16.82
+CA Bizertin,86.95,41.57
+PEC Zwolle,18.27,37.56
+Hradec Králové,80.82,54.18
+Glentoran,69.17,86.38
+Macará,43.63,43.8
+Ben Guerdane,16.5,70.40
+ENPPI,33.68,32.56
+Universidad de Chile,37.60,24.18
+Samsunspor,63.56,27.41
+Adelaide United,41.28,1.66
+Hwange,98.6,14.92
+Jeanne d'Arc de Bamako,44.49,2.37
+Voždovac,84.39,22.83
+Al-Ittihad,28.63,45.24
+Iraklis,39.4,49.30
+Mazatlán FC,96.84,100.58
+Irtysh Pavlodar,3.18,27.85
+CAPS United,56.17,76.96
+Unisport FC Du Haut-Nkam,17.77,26.33
+Qäbälä,50.19,95.58
+FC Veris,65.86,32.39
+Chonburi FC,55.50,86.89
+Ashanti Gold FC,47.73,21.69
+Waitakere United,2.39,66.3
+Kryvbas,57.84,34.66
+Thun,8.79,48.83
+ASO Chlef,0.54,4.43
+Sarpsborg 08,10.64,15.88
+Guaireña FC,85.50,57.4
+CD UT Cajamarca,79.48,10.89
+Medeama SC,37.80,99.42
+Córdoba CF,90.92,59.71
+Bendel Insurance,39.28,67.30
+FC Ashdod,2.69,90.86
+Aduana Stars,76.88,23.28
+Aluminium Arak,99.84,92.90
+Plaza Colonia,89.40,46.89
+SO Armée,64.48,28.41
+Al-Ittihad Al-Sakandary,70.18,42.73
+Sol de América,83.85,27.7
+Querétaro,10.5,16.63
+Mouscron-Péruwelz,61.6,30.98
+Al-Faisaly FC Harmah,0.94,36.58
+Suwon FC,4.0,95.59
+Recreativo do Libolo,75.65,31.6
+Cobreloa,48.45,60.99
+Al-Arabi Doha,11.56,35.48
+Deportiva San Carlos,28.15,50.92
+Power Dynamos,85.68,21.51
+Radnički Niš,15.57,54.88
+Boyacá Chicó FC,46.16,1.23
+Veres Rivne,33.31,36.39
+Asociación Deportiva Tarma (ADT),78.54,79.87
+Sporting Kansas City,17.68,75.9
+Beitar Jerusalem FC,77.77,1.89
+Olancho FC,34.75,78.47
+Grasshopper Club Zürich,99.61,72.78
+Chiangrai United,76.52,57.98
+Lechia Gdańsk,31.79,92.29
+Churchill Brothers SC,59.97,14.88
+Xanthi FC,67.13,13.79
+Sporting San José FC,33.49,54.62
+Újpest,43.97,1.96
+Mushuc Runa SC,67.99,95.79
+Kashiwa Reysol,13.33,100.56
+Cesena,1.29,13.68
+Rubio Ñú,86.15,43.17
+Eastern Suburbs,75.43,79.94
+Colorado Rapids,17.82,41.59
+Rukh Vynnyky,81.81,81.81
+Huddersfield Town,68.76,91.73
+Quilmes,46.19,83.67
+Zamora FC,56.0,48.67
+Shkupi Skopje,72.13,8.13
+CD Jaguares,84.84,74.33
+Jaguares Chiapas,13.42,57.65
+FK Haugesund,68.38,43.48
+Independiente de La Chorrera,98.6,73.59
+FC Nizhny Novgorod,41.21,32.39
+Sporting Gagnoa,15.64,8.75
+Coleraine,100.21,25.64
+AL Gharafa,0.79,52.69
+Changchun Yatai,94.20,37.1
+Novi Pazar,46.66,6.7
+FC Skonto Riga,62.17,100.61
+Tauro FC,70.38,6.76
+Nea Salamis,65.60,73.84
+Fénix,19.95,76.49
+Sanga Balende,0.16,67.71
+Stellenbosch FC,94.9,60.93
+Gostaresh Foolad,13.85,9.60
+Sunshine Stars,21.85,54.86
+Eastern Stars,64.87,24.24
+Belenenses,40.35,34.10
+Hapoel Tel Aviv,8.84,5.26
+General Caballero JLM,45.98,78.30
+Elazığspor,24.50,5.73
+Valmiera FK,90.89,72.66
+PSM Makassar,91.18,44.76
+LA Galaxy,44.91,55.34
+Paradou AC,72.82,35.73
+Newtown,19.68,12.76
+Hearts of Oak,77.5,77.40
+Melipilla,27.71,14.3
+El Geish,94.66,23.78
+Liga de Loja,19.86,11.55
+Sabah FK,95.87,50.89
